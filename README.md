@@ -1,4 +1,4 @@
-https://www.nareshkumar.live/
+https://nareshkumaralaria.github.io/My-Portfolio/
 
 
 My personal portfolio, made using a MERN stack and Vanila CSS.
