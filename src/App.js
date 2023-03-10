@@ -35,7 +35,7 @@ function App() {
         <div className="home-page vh-100 d-flex flex-wrap justify-content-center align-items-center" id="Home">
           <div className="left-part vh-85">
             <div className="greeting d-flex align-items-center flex-row">
-              <img src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/waving-hand_1f44b.png" alt="greeting-img" className="me-2" />
+              <img src="https://em-content.zobj.net/source/microsoft-teams/337/waving-hand_1f44b.png" alt="greeting-img" className="me-2" />
               <p className="mb-0">Hi, I'm</p>
             </div>
             <p className="myname">Naresh Kumar</p>
